@@ -1,4 +1,11 @@
-## Hi there 👋
+## Hi👋, my name Is Jonathon
+
+****I am a fourth-year Software Engineering student who enjoys taking on new challenges and the learning opportunities they bring.
+
+****I am currently interested in backend development in GoLang, Java, and C#. Full-stack development is also one of my passions.
+
+****If you want to see more of my projects in detail, check out my portfolio site:
+****https://www.jonathon-stamper.com
 
 <!--
 **JonathonStamper/jonathonstamper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
